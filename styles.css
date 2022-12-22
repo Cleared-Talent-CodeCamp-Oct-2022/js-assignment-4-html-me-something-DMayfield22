@@ -1,1 +1,30 @@
-/* Write your CSS here! */
+
+
+header {
+    display: block;
+    justify-content:center;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+
+#mainHeading {
+   color: red;
+}
+
+h1 {padding-top: 50px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+body {
+    display: block;
+    margin-inline-start: 80px;
+    margin-inline-end: 80px;
+}
+
+.funParagraph {
+    color:green
+}
